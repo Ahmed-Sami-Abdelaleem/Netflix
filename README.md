@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone – Backend System (Java & Spring Boot)
 
-## 📌 Project Overview
+## 📌 Project Overview 
 This project is a **Netflix Clone backend system** designed to simulate a real-world **video streaming platform**.  
 The backend is responsible for **user authentication, subscription management, content catalog, streaming metadata, user profiles, watch history, recommendations, and performance optimization**.
 
@@ -152,7 +152,8 @@ Main entities:
 - Spring Security
 - Spring Data JPA
 - Hibernate
-
+## C1 Digram
+<img width="3265" height="589" alt="Image" src="https://github.com/user-attachments/assets/d6f21fe5-fe04-4050-83ec-808c43aefeaf" />
 ### Database
 - PostgreSQL / MySQL
 
