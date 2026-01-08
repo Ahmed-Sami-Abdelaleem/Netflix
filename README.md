@@ -154,6 +154,9 @@ Main entities:
 - Hibernate
 ## C1 Digram
 <img width="3265" height="589" alt="Image" src="https://github.com/user-attachments/assets/d6f21fe5-fe04-4050-83ec-808c43aefeaf" />
+
+## C2 Digram
+<img width="3273" height="1101" alt="Image" src="https://github.com/user-attachments/assets/8bd1e8b3-4ae7-4b00-882c-e6d6e46ca391" />
 ### Database
 - PostgreSQL / MySQL
 
