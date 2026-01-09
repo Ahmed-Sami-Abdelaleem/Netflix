@@ -160,6 +160,9 @@ Main entities:
 ### Database
 - PostgreSQL / MySQL
 
+## C4 Digram
+<img width="3487" height="1484" alt="Image" src="https://github.com/user-attachments/assets/0d19cd63-8862-4cb9-8beb-14eaf546d316" />
+
 ### Tools & DevOps
 - Maven
 - Docker
